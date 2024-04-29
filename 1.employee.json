@@ -1,0 +1,22 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "FirstName": "abc",
+      "LastName": "Dfe",
+      "Gender": "Male",
+      "Age": 30,
+      "Salary": 50000,
+      "Department": "Engineering"
+    },
+    {
+      "id": 2,
+      "FirstName": "fgvbh",
+      "LastName": "vgbhn",
+      "Gender": "Female",
+      "Age": 25,
+      "Salary": 45000,
+      "Department": "Marketing"
+    }
+  ]
+}
